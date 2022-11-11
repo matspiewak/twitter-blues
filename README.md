@@ -7,4 +7,4 @@ You can find the instructions [here](https://developer.chrome.com/docs/extension
 ## example and description
 ![tweet handle](/example.png)
 
-This extension replaces blue verification badge (looking exactly the same as the "normal" one!)
+This extension replaces blue verification badge (looking exactly the same as the "normal" one!) with the blue OMEGALUL emote
