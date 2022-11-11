@@ -25,12 +25,10 @@ const replaceBlue = (blueUsers, userElements) => {
         ?.children[0]?.children[0]?.children[0]?.children[0]?.children[0]
         ?.children[0]?.children[0];
     let badge = usernameElement.parentNode.parentNode.parentNode.children[1];
-    debugger;
     if (usernameElement) {
       blueUsers.forEach((blue) => {
         if (blue.includes(usernameElement.textContent)) {
           badge.replaceWith(img);
-          debugger;
         }
       });
     }
