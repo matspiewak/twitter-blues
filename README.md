@@ -8,3 +8,5 @@ You can find the instructions [here](https://developer.chrome.com/docs/extension
 ![tweet handle](/example.png)
 
 This extension replaces blue verification badge (looking exactly the same as the "normal" one!) with the blue OMEGALUL emote
+
+-- Wouldn't care less about current Twitter(X), so you can count this repo as a dead one. --
